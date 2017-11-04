@@ -1,2 +1,4 @@
 # mothership
-Arduino code used in motherships will be stored here
+Everything needed to use the Mothership is stored in this repository.
+
+Also the files needed to make it yourself are here.
